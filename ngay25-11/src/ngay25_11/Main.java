@@ -15,5 +15,6 @@ public class Main {
 
         // Hiển thị thông tin tin tức
         news.Display();
+
     }
 }
